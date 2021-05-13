@@ -3,7 +3,7 @@ Objective:
 Write an API to return, the country and timezone info
 geo locations.
 We use node.js / express and google maps APIs. 
-Please send us your code in GitHub or GitLab.
+
 
 # Example Request - 
 URL: <baseurl>/api/get_distance_and_time
